@@ -11,6 +11,11 @@ Scans and tracks transactions on Solana, Polkadot, Polygon, Ethereum on Node.js 
 
 Skills: Node.js, TypeScript, Web3
 
+## White label Cryptocurrency Exchange
+Fixed multi-threading issues on a white label cryptocurrency exchange.  
+
+Skills: C#, multi-threading, debugging, troubleshooting
+
 ## UpgradeLambda
 Upgrades blockchain node software on AWS.  
 
@@ -67,4 +72,4 @@ Skills: Win32 API, DLL integration, SMTP/POP3
 ## SGX Consulting
 Worked with an international team (Australia, Singapore, UK, US), which gathered to troubleshoot and fix the Singapore Exchange (SGX) QUEST trading engine as it was running into issues and make recommendations on the way forward.
 
-Skills: Delphi, trading engine, multi-threading
+Skills: Delphi, trading engine, debugging, multi-threading
