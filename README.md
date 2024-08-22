@@ -1,7 +1,7 @@
 # Chee-Wee's Portfolio of Projects
 
 
-## Simple Debugger / Monitor
+## Application Debugger / Monitor
 Launches specified Windows application and monitors its debug messages, loading and unloading of libraries, thread starts and exits, exceptions, and breakpoints.  
 
 Skills: Win32 API, Debugger
