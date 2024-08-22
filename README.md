@@ -12,19 +12,24 @@ Scans and tracks transactions on Solana, Polkadot, Polygon, Ethereum on Node.js 
 Skills: Node.js, TypeScript, Web3
 
 ## UpgradeLambda
-Upgrades blockchain node software on AWS.
+Upgrades blockchain node software on AWS.  
 
 Skills: AWS Lambda, Go
 
 ## Bitcoin Indexer
-Indexes bitcoin transactions to allow it to be searchable.
+Indexes bitcoin transactions to allow it to be searchable.  
 
 Skills: TypeScript, Node.js, PostgreSQL
 
-## Blue Cross Donations
-Donation, and real-time display of donated amount, as well as refunding of donations.
+## Parnassus Debugger, Bookmark and Navigator
+Fixed the Parnassus Debugger, Bookmark and Navigator so that it can integrate into RAD Studio.  
 
-Skills: Solidity, TypeScript, CSS
+Skills: WinAPI, Pascal, multi-threading
+
+## Blue Cross Donations
+The design and development of a donation system in Ethereum blockchain, including refunding of donations, with a real-time display update.
+
+Skills: Solidity, Ethereum, TypeScript, CSS
 
 ## JSON RPC Framework
 A JSON RPC Framework that allows easy dispatching of JSON RPC calls, with Aptos, Bitcoin, Ethereum, Polkadot and Solana clients.
