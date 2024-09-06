@@ -11,13 +11,18 @@ Scans and tracks transactions on Solana, Polkadot, Polygon, Ethereum on Node.js 
 
 Skills: Node.js, TypeScript, Web3
 
+## Open source Node.js library - DelphiRTL
+A library of routines that provides common functionality, such as JSON RPC, logging, date routines for use on Node.js on [npm registry](https://www.npmjs.com/package/delphirtl).
+
+Skills: Node.js, TypeScript
+
 ## White label Cryptocurrency Exchange
 Fixed multi-threading issues on a white label cryptocurrency exchange.  
 
 Skills: C#, multi-threading, debugging, troubleshooting
 
 ## UpgradeLambda
-Upgrades blockchain node software on AWS.  
+Upgrades blockchain node software on AWS, remotely, by connecting using SSH.  
 
 Skills: AWS Lambda, Go
 
