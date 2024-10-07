@@ -1,5 +1,8 @@
 # Chee-Wee's Portfolio of Projects
 
+## Uniswap Hook Donations
+A smart contract and a web browser interface that works underneath Uniswap, to allow donations to specific addresses.
+Skills: TypeScript, Web3, Solidity, Node.js, DeFi
 
 ## Application Debugger / Monitor
 Launches specified Windows application and monitors its debug messages, loading and unloading of libraries, thread starts and exits, exceptions, and breakpoints.  
@@ -13,6 +16,11 @@ Skills: Node.js, TypeScript, Web3
 
 ## Open source Node.js library - DelphiRTL
 A library of routines that provides common functionality, such as JSON RPC, logging, date routines for use on Node.js on [npm registry](https://www.npmjs.com/package/delphirtl).
+
+Skills: Node.js, TypeScript
+
+## Open source Node.js library - web3-wallet-api
+A library of routines that provides common Web3 wallets functionality for web browsers, available on [npm registry](https://www.npmjs.com/package/web3-wallet-api).
 
 Skills: Node.js, TypeScript
 
