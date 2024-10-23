@@ -1,7 +1,18 @@
 # Chee-Wee's Portfolio of Projects
 
+## Open source Node.js library - web3-wallet-utils
+A library of routines that provides blockchain-related utilities, available on  [npm registry](https://www.npmjs.com/package/web3-wallet-utils).
+
+Skills: TypeScript, Web3, Node.js
+
+## Open source Ronin SkyNet Web3 and JSON RPC providers
+A library consisting of a JSON RPC and Skynet Web3 provider for Ronin.
+
+Skills: TypeScript, Web3, Node.js
+
 ## Uniswap Hook Donations
-A smart contract and a web browser interface that works underneath Uniswap, to allow donations to specific addresses.
+A smart contract and a web browser interface that works underneath Uniswap, to allow donations to specific addresses, when using Uniswap.
+
 Skills: TypeScript, Web3, Solidity, Node.js, DeFi
 
 ## Application Debugger / Monitor
@@ -71,16 +82,18 @@ StopMercuryAttacks is a Delphi project group consisting of 3 plugin projects:
 1.	Mercury.Daemons.StopSMTPAttacks
 2.	Mercury.Daemons.StopPOP3Attacks
 3.	Mercury.Daemons.MapIPv6
-that protects both the Mercury SMTP and POP3 server from the following issues:
-    * connections from the same IP within 70 seconds to the SMTP server
-    * clients presenting EHLO/HELO with an IP address to the SMTP server
-    * multiple AUTHs from the same connection within 5 seconds to the SMTP server
-    * multiple failed logins to the POP3 server from the same host
+
+that protects both the Mercury SMTP and POP3 server from the following issues:  
+
+* connections from the same IP within 70 seconds to the SMTP server  
+* clients presenting EHLO/HELO with an IP address to the SMTP server  
+* multiple AUTHs from the same connection within 5 seconds to the SMTP server  
+* multiple failed logins to the POP3 server from the same host
 
 It also provides the following functionality:
-1.	IPv6 mapping, so that connections via IPv6 are possible.
+1.	IPv6 mapping, so that connections via IPv6 are possible into an IPv4-only application.
 
-Skills: Win32 API, DLL integration, SMTP/POP3
+Skills: Win32 API, cross-language DLL integration, SMTP/POP3
 
 ## SGX Consulting
 Worked with an international team (Australia, Singapore, UK, US), which gathered to troubleshoot and fix the Singapore Exchange (SGX) QUEST trading engine as it was running into issues and make recommendations on the way forward.
