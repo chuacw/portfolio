@@ -23,7 +23,7 @@ Skills: Win32 API, Debugger
 ## Blockchain transaction scanner
 Scans and tracks transactions on Solana, Polkadot, Polygon, Ethereum on Node.js and encapsulated in a wallet application.  
 
-Skills: Node.js, TypeScript, Web3
+Skills: Node.js, TypeScript, Web3, Solana
 
 ## Open source Node.js library - DelphiRTL
 A library of routines that provides common functionality, such as JSON RPC, logging, date routines for use on Node.js on [npm registry](https://www.npmjs.com/package/delphirtl).
@@ -58,13 +58,13 @@ Skills: WinAPI, Pascal, multi-threading
 ## Blue Cross Donations
 The design and development of a donation system in Ethereum blockchain, including refunding of donations, with a real-time display update.
 
-Skills: Solidity, Ethereum, TypeScript, CSS
+Skills: Solidity, Ethereum, TypeScript, CSS, Solana
 
 ## JSON RPC Framework
 A JSON RPC Framework that allows easy dispatching of JSON RPC calls, with Aptos, Bitcoin, Ethereum, Polkadot and Solana clients.
 
 Skills: JSON RPC, Object Pascal  
-Blockchains: Aptos, Bitcoin, Ethereum, Polkadot, Solana.
+Blockchains: Aptos, Bitcoin, Ethereum, Polkadot, Solana
 
 ## WebSockets Framework
 The first cross-platform Web Sockets Framework for Delphi, tested against Windows, and Linux for Firefox and Chrome.
