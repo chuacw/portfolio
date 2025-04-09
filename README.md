@@ -6,7 +6,7 @@ A library of routines that provides blockchain-related utilities, available on  
 Skills: TypeScript, Web3, Node.js
 
 ## Open source Ronin SkyNet Web3 and JSON RPC providers
-A library consisting of a JSON RPC and Skynet Web3 provider for Ronin.
+A library consisting of a JSON RPC ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/RoninJsonRpcProvider.html)), Skynet REST ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetRESTProvider.html)) and Skynet Web3 provider ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetWeb3Provider.html)) for Ronin.
 
 Skills: TypeScript, Web3, Node.js
 
