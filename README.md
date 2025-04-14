@@ -6,12 +6,28 @@ A library of routines that provides blockchain-related utilities, available on  
 Skills: TypeScript, Web3, Node.js
 
 ## Open source Ronin SkyNet Web3 and JSON RPC providers
-A library consisting of a JSON RPC ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/RoninJsonRpcProvider.html)), Skynet REST ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetRESTProvider.html)) and Skynet Web3 provider ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetWeb3Provider.html)) for Ronin.
+A library consisting of a JSON RPC ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/RoninJsonRpcProvider.html)), Skynet REST ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetRESTProvider.html)) and Skynet Web3 provider ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetWeb3Provider.html)) for Ronin. Availible on [npm registry](https://www.npmjs.com/package/web3-ronin-provider).
+
 
 Skills: TypeScript, Web3, Node.js
 
+# Aptos Glycemia
+A smart contract framework for glycemia treatment, presented at Aptos Singapore 2023.
+
+Skills: Move, TypeScript, Web3, Node.js
+
+# Various Aptos Move blockchain smart contracts
+Winner of several Move smart contract hackathons.
+
+Skills: Move, TypeScript, Web3, Node.js
+
+# Create Zip
+An open source Rust project to create zip files.
+
+Skills: Rust
+
 ## Uniswap Hook Donations
-A smart contract and a web browser interface that works underneath Uniswap, to allow donations to specific addresses, when using Uniswap.
+A smart contract and a web browser interface that works underneath Uniswap, to allow donations to specific addresses, when using Uniswap to swap tokens.
 
 Skills: TypeScript, Web3, Solidity, Node.js, DeFi
 
