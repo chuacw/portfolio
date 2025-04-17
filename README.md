@@ -1,12 +1,17 @@
 # Chee-Wee's Portfolio of Projects
 
+## Introduction
+This is a list of some projects I've worked on, both open source and close source. It's not a comprehensive list nor an exhaustive one.
+
+It showcases some of my skills.
+
 ## Open source Node.js library - web3-wallet-utils
 A library of routines that provides blockchain-related utilities, available on  [npm registry](https://www.npmjs.com/package/web3-wallet-utils).
 
 Skills: TypeScript, Web3, Node.js
 
 ## Open source Ronin SkyNet Web3 and JSON RPC providers
-A library consisting of a JSON RPC ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/RoninJsonRpcProvider.html)), Skynet REST ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetRESTProvider.html)) and Skynet Web3 provider ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetWeb3Provider.html)) for Ronin. Availible on [npm registry](https://www.npmjs.com/package/web3-ronin-provider).
+A library consisting of a JSON RPC ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/RoninJsonRpcProvider.html)), Skynet REST ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetRESTProvider.html)) and Skynet Web3 provider ([docs](https://chuacw.github.io/web3-ronin-provider/html/classes/SkynetWeb3Provider.html)) for Ronin. Available on [npm registry](https://www.npmjs.com/package/web3-ronin-provider).
 
 
 Skills: TypeScript, Web3, Node.js
@@ -77,7 +82,7 @@ The design and development of a donation system in Ethereum blockchain, includin
 Skills: Solidity, Ethereum, TypeScript, CSS, Solana
 
 ## JSON RPC Framework
-A JSON RPC Framework that allows easy dispatching of JSON RPC calls, with Aptos, Bitcoin, Ethereum, Polkadot and Solana clients.
+An advanced JSON RPC Framework that allows easy dispatching of JSON RPC calls, with Aptos, Bitcoin, Ethereum, Polkadot and Solana clients.
 
 Skills: JSON RPC, Object Pascal  
 Blockchains: Aptos, Bitcoin, Ethereum, Polkadot, Solana
@@ -107,7 +112,7 @@ that protects both the Mercury SMTP and POP3 server from the following issues:
 * multiple failed logins to the POP3 server from the same host
 
 It also provides the following functionality:
-1.	IPv6 mapping, so that connections via IPv6 are possible into an IPv4-only application.
+*	IPv6 mapping, so that connections via IPv6 are possible into an IPv4-only application.
 
 Skills: Win32 API, cross-language DLL integration, SMTP/POP3
 
