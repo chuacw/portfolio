@@ -1,4 +1,4 @@
-# Chee-Wee's Portfolio of Projects
+# CheeWee's Portfolio of Projects
 
 ## Introduction
 This is a list of some projects I've worked on, both open source and close source. It's not a comprehensive list nor an exhaustive one.
